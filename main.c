@@ -5,7 +5,7 @@ int main() {
     float y;
     printf("Enter an integer: ");
     scanf("%f", &x);
-    y = x*x*x;
+    y = x;
     printf("y: %f\n", y);
     return 0;
     }
